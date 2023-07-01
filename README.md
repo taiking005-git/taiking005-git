@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @taiking005-git
 - 👀 I’m interested in software Enginnering
-- 🌱 I’m currently learning full stack web development
-- 🌱 I'm currently learning MERN full stack
-- 🌱 I'm skill in html5, css3, javascript, python, sveltekit and reactjs
+- 🌱 I’m currently learning MERN full stack web development
+- 🌱 I'm skill in HTML5, CSS3, Javascript, Sveltekit, Reactjs, NextJs
 - 💞️ I’m looking to collaborate on everything about webdevelopment
 - 📫 How to reach me taiking005.dev@gmail.com
 
