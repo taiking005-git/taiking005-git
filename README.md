@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there👋! My name is Taiwo and I'm a Frontend Developer 😇😇</h1>
+<h1 align="center">Hi there👋! My name is Taiwo and I am a Frontend Developer 😇😇</h1>
 
 ###
 
