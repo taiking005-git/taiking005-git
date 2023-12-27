@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"  />
+  <img width="100%" height="200" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hi there👋! My name is Taiwo and I am a Frontend Developer 😇😇</h1>
+<h1 align="center">Hi there👋! My name is Taiwo and I am a Web and Mobile Developer 😇😇</h1>
 
 ###
 
-<p align="left">- 👯 I'm available for collaboration on any project related to my stack.<br><br>- 📫 Reach out to me on taiking005.dev@gmail.com<br><br>- 💞️ I’m looking to collaborate on everything about webdevelopment</p>
+<p align="left">- 👯 I'm available for collaboration on any project related to my stack.<br><br>- 📫 Reach out to me on taiking005.dev@gmail.com<br><br>- 💞️ I’m looking to collaborate on everything about webdevelopment and mobile</p>
 
 ###
 
