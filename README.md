@@ -1,64 +1,52 @@
-<div align="center">
-  <img width="100%" height="200" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"  />
-</div>
+# 👋 Hi there, I'm Taiwo!
 
-###
+**Web & Mobile Developer** 🇳🇬  
+*Building clean, responsive apps for the web and mobile*
 
-<h1 align="center">Hi there👋! My name is Taiwo and I am a Web and Mobile Developer 😇😇</h1>
+- 🔭 Currently working on web and mobile projects  
+- 🌱 Always learning new tools and frameworks  
+- 👯 Open to collaborations on web development, mobile apps, or open-source  
+- 💬 Ask me about frontend/backend, Flutter, React, or anything tech-related  
+- 📫 Reach me at: **taiking005.dev@gmail.com**  
+- ⚡ Fun fact: Coffee + code = my happy place ☕
 
-###
+### 🛠️ Tech Stack & Skills
 
-<p align="left">- 👯 I'm available for collaboration on any project related to my stack.<br><br>- 📫 Reach out to me on taiking005.dev@gmail.com<br><br>- 💞️ I’m looking to collaborate on everything about webdevelopment and mobile</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<!-- Add more badges here based on your stack, e.g.:
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+Find more at https://shields.io -->
 
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-</div>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiking005-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=taiking005-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+![Taiwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taiking005-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taiking005-git&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=taiking005-git&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=taiking005-git&theme=tokyonight&no-frame=true&margin-w=15)
+
 </div>
 
+### 🤝 Connect with Me
 
-<!---
-###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/taiking005-git/count.svg?"  />
+
+[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taikosoft)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiking005.dev@gmail.com)
+
 </div>
 
-###
+<!--
+Optional: Add a visitor counter
+<img src="https://visitor-badge.laobi.icu/badge?page_id=taiking005-git.taiking005-git" alt="Visitors"/>
+-->
 
-taiking005-git/taiking005-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting my profile! 🚀
